@@ -28,6 +28,7 @@ docker-compose up -d
 
 
 - Postgresql should be running and bound to port 5431 on localhost
+- Under resources file run init.sql to create tables
 
 
 ```
